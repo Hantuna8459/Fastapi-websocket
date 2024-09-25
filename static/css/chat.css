@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+#messages {
+    list-style-type: none;
+    padding: 0;
+}
+
+#messages li {
+    padding: 8px;
+    margin-bottom: 5px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+}
